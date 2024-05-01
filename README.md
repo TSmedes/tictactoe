@@ -1,2 +1,2 @@
 # TicTacToe
-Simple console based Tic Tac Toe game
+Simple console based Tic Tac Toe game in C++
